@@ -1,0 +1,11 @@
+Your car's details are:
+Description: SKODA SUPERB 2.0 TDI ELEGANCE AUTOMATIC
+Car Company: SKODA
+Car Model: SUPERB
+Fuel Type: Diesel
+Registration Year: 2012
+EngineSize: 1968
+Vehicle ID: TMBBEJ3T6BA302914
+NumberOfSeats: 5
+Engine No.: CLJ003448
+Location RTO: RTO,SURAT
