@@ -1,6 +1,6 @@
 # Car_No_Plate_Detection
 
-This Car No Plate Detection App is designed to execute a physical identification of the car by displaying the it's details along with owner's details. Here user needs to upload the image of the car only. 
+This Car No Plate Detection App is designed to execute a physical identification of the car by displaying it's details along with owner's details. Here user only needs to upload the image of the car. 
 
 It has mainly two parts:
 
