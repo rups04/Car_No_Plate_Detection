@@ -22,4 +22,4 @@ Here are Some Preview Images of App.
 ![](App_Preview/image1.jpeg)
 ![](App_Preview/image2.JPG)
 ![](App_Preview/image3.JPG)
-![](App_Preview/footer.JPG)
+
